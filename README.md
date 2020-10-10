@@ -1,1 +1,1 @@
-# M7DataSP_2020
+Playground for course M7DataSP 2020 taught at Masaryk University
